@@ -1,0 +1,19 @@
+{
+    "name": "gui/simple-php-rest-api",
+    "description": "PHP REST API",
+    "authors": [
+        {
+            "name": "Guilherme de Alacoc Aquino",
+            "email": "guilhermealacoc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"App"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "require": {}
+}
