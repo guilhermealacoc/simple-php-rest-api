@@ -8,3 +8,5 @@
     const DBPASS = 'password';
 
     $db = new PDO(DBDRIVE.': host='.DBHOST.'; dbname='.DBNAME, DBUSER, DBPASS);
+
+    //teste
