@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'eacae0f4cc5a32b3562ee5ab6ba3ccaa' => $baseDir . '/config.php',
+    'adcb2070401b250881a83db7f05cee87' => $baseDir . '/.env',
 );
